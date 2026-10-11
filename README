@@ -1,0 +1,31 @@
+🧮 Calculadora em Java
+
+📌 Sobre o projeto
+
+Este é um dos meus primeiros projetos desenvolvidos durante minha jornada de aprendizado em programação com Java.
+
+O objetivo foi praticar os fundamentos da linguagem, utilizando entrada de dados, variáveis e estruturas condicionais.
+
+⚙️ Funcionalidades
+
+- Exibição de um menu de operações matemáticas.
+- Escolha da operação pelo usuário.
+- Utilização de estruturas condicionais "if" e "else if".
+- Entrada de dados utilizando a classe "Scanner".
+
+🛠️ Tecnologias utilizadas
+
+- Java
+- Classe "Scanner"
+- Estruturas condicionais
+- Variáveis do tipo "int"
+
+🎯 Objetivo
+
+Estou estudando programação do zero e desenvolvendo projetos práticos para aprimorar minhas habilidades e construir meu portfólio.
+
+Este projeto representa uma etapa da minha evolução como futuro desenvolvedor de software.
+
+👨‍💻 Autor
+
+Estudante de programação, aprendendo Java e buscando minha primeira oportunidade profissional na área de tecnologia.
